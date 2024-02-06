@@ -1,0 +1,20 @@
+Funtional Requrements
+
+1. One-one chat
+2. Group chat
+3. Read receipt
+4. Online Status
+5. Notification
+6. Share Multimedia
+
+
+System Requrements
+
+1. Low latency
+2. High Reliability
+3. High Availability
+4. Mobile and Desktop
+5. Chat History
+6. High Blob Store
+7. E2E encription
+8. Web Socket
